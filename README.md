@@ -8,9 +8,6 @@ This activity introduces the GitHub web interface and simple ways to navigate an
 2. Examine the assigned meal course
 3. Make an edit
 4. Commit changes (with meaningful comments), choosing the option to "create a new branch and start a pull request"
-
-#### The first round of pull requests will be discsussed by the group and approved by the workshop leaders.
-
 5. Repeat
 6. Approve pull requests from your team
 

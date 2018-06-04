@@ -1,4 +1,4 @@
 # Main
 * Burgers
-* Veggie Burger
-* Turkey Hot Dog
+* Hot Dogs
+* Lasagna
