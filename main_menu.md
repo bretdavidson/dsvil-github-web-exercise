@@ -3,3 +3,4 @@
 * Hot Dogs
 * Lasagna
 * Pizza
+* Eggplant Lasagna
