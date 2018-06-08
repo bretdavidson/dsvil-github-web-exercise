@@ -1,6 +1,6 @@
 # Main
 * Burgers
 * Hot Dogs
-* Lasagna
+* Lasagna (Not spicy)
 * Pizza
 * Eggplant Lasagna
