@@ -2,3 +2,4 @@
 * Burgers
 * Hot Dogs
 * Lasagna
+* Pizza
